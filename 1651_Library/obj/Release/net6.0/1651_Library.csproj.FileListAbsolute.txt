@@ -1,0 +1,5 @@
+C:\Users\ADMIN\OneDrive\Máy tính\1651\1651_Library\1651_Library\obj\Release\net6.0\1651_Library.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\1651\1651_Library\1651_Library\obj\Release\net6.0\1651_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\1651\1651_Library\1651_Library\obj\Release\net6.0\1651_Library.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\1651\1651_Library\1651_Library\obj\Release\net6.0\1651_Library.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\1651\1651_Library\1651_Library\obj\Release\net6.0\1651_Library.csproj.CoreCompileInputs.cache
